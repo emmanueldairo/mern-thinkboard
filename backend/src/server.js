@@ -24,8 +24,3 @@ connectDB().then(() => {
     console.log("Server is running on port", PORT);
     }); 
 })
-//console.log("Connected to the database");
-
-
-//mongodb+srv://emmadairo:WQv0phqk6XrBVCH0@cluster0.owfnzub.mongodb.net/?appName=Cluster0
-//WQv0phqk6XrBVCH0
